@@ -1,0 +1,6 @@
+crop_id,seed_category,price_min_inr_kg,price_max_inr_kg,season,source_status,notes
+paddy,Coarse paddy,34.78,34.78,Kharif 2026,reported state schedule,Verify exact variety and certified seed class
+paddy,Fine paddy,39.19,39.19,Kharif 2026,reported state schedule,Verify exact variety and certified seed class
+paddy,Aromatic paddy,48.03,48.03,Kharif 2026,reported state schedule,Verify exact variety and certified seed class
+pigeon_pea,Pigeon pea/arhar,113.69,132.20,Kharif 2026,reported state schedule,Verify exact variety and seed category
+kodo_millet,Kodo-kutki,72.45,72.45,Kharif 2026,reported state schedule,Seed rate not yet verified in this app

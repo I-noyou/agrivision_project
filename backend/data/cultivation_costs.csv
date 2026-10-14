@@ -1,0 +1,7 @@
+crop_id,cost_min_inr_acre,cost_max_inr_acre,verification_status
+paddy,15000,25000,preliminary demo estimate; verify locally
+pigeon_pea,8000,16000,preliminary demo estimate; verify locally
+chickpea,7000,14000,preliminary demo estimate; verify locally
+maize,12000,22000,preliminary demo estimate; verify locally
+kodo_millet,5000,11000,preliminary demo estimate; verify locally
+mustard,6000,12000,preliminary demo estimate; verify locally
